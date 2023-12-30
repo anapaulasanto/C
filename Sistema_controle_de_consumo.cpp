@@ -33,7 +33,6 @@ int main() {
   printf("Digite quantos dias os aparelhos ficaram em uso: \n");
   scanf("%lf",&tempoTotal);
 
-
    for (i = 0 ; i < 2 ; i++) {
      consumoTotal += eletro[i].potencia * eletro[i].tempoAtivo * tempoTotal;
    }
