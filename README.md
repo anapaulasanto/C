@@ -1,5 +1,5 @@
  <h1 align="center">Códigos em C</h1>
-  <p align="center"> Códigos de sistemas em linguagem C </p>
+  <p align="center"> Códigos de aplicações em linguagem C </p>
 
 
 # Sistemas
