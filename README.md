@@ -15,6 +15,6 @@
 * [Sistema de agenda de compromissos](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistemas_criacao_de_agenda_compromissos.c)
            <p> -Sistema de criação de agenda para compromissos diários </p>
 
-* [Sistema de livraria](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistemas_criacao_de_agenda_compromissos.c)
+* [Sistema de livraria](https://github.com/anapaulasanto/C/blob/main/sistema_livraria.c)
            <p> -Sistema de cadastro, consulta (por autor, por codigo ou por editora), visualização e remoção de livros </p>
 
